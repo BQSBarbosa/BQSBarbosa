@@ -20,4 +20,4 @@ Formada em Publicidade e Propaganda e uma exploradora iniciante do universo da p
 
 ## Contatos
 
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](href="mailto:barbaraqueirozbarbosa@hotmail.com)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> (href="mailto:barbaraqueirozbarbosa@hotmail.com)]
