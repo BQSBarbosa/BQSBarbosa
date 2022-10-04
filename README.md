@@ -28,7 +28,7 @@ Graduated in Advertising and a new explorer of the programming universe.
 
 #### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=certificardFinal&theme=dark)](https://github.com/BQSBarbosa/certificardFinal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=certificardFinal&theme=dark)](https://bqsbarbosa.github.io/certificardFinal/)
 
 #### Social
 
