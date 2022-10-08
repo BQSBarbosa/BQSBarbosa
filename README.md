@@ -30,6 +30,8 @@ Graduated in Advertising and a new explorer of the programming universe.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=certificardFinal&theme=dark)](https://bqsbarbosa.github.io/certificardFinal/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=curriculo&theme=dark)](https://bqsbarbosa.github.io/curriculo/)
+
 #### Social
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bárbara-queiroz-sampaio-barbosa-487522153/)
