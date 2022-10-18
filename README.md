@@ -22,15 +22,15 @@ Graduated in Advertising and a new explorer of the programming universe.
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BQSBarbosa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BQSBarbosa&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BQSBarbosa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BQSBarbosa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=certificardFinal&theme=dark)](https://bqsbarbosa.github.io/certificardFinal/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=certificardFinal&theme=radical)](https://bqsbarbosa.github.io/certificardFinal/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=curriculo&theme=dark)](https://bqsbarbosa.github.io/curriculo/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BQSBarbosa&repo=curriculo&theme=radical)](https://bqsbarbosa.github.io/curriculo/)
 
 #### Social
 
