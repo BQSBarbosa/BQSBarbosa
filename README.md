@@ -1,5 +1,3 @@
-###### Hey! 👋
-
 ### Biography
 
 Graduated in Advertising and a new explorer of the programming universe.
