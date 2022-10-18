@@ -21,10 +21,9 @@ Graduated in Advertising and a new explorer of the programming universe.
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BQSBarbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BQSBarbosa&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BQSBarbosa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BQSBarbosa&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Projects
 
